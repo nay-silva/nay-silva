@@ -3,6 +3,7 @@
 
 - 🌱 Estudante de ADS
 - 😄 Pronouns: Ela/Dela
+- 👩🏽‍💻 Front-end
 
 <div align="center">
   <a href="https://github.com/nay-silva">
