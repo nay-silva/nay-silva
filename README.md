@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou a Nayara Silva👋
 
-- 🌱 Estudante de ADS
+- 🎓 Estudante de ADS 
 - 😄 Pronouns: Ela/Dela
 - 👩🏽‍💻 Front-end
 
